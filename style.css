@@ -1,0 +1,163 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu ul li{
+    list-style-type: none;
+    display: inline-block;
+
+}
+.nav-menu ul li a{
+    text-decoration: none;
+    padding-left: 20px;
+    color: tomato;
+
+}
+.nav-menu{
+    font-family: 'Noto Sans', sans-serif;
+    text-align: right;
+    margin-top: 3%;
+    margin-right: 20%;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.Header-area{
+    padding-bottom: 150px;
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    padding: 5%;
+    margin: 2%;
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.one-third-width{
+    width : 25%; 
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+    
+
+.one-third-width img{
+    width: 80%;
+
+}
+
+    
+h1{
+    font-size: 65px;
+    font-family: 'Yeon Sung', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    padding-bottom: 5px;
+    font-family: 'Heebo', sans-serif;
+    font-size: 25px;
+}
+
+.green-highlighter{
+    color: green;
+}
+
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, green, red);
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, blue,purple);
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+}
+
+.half-width{
+    padding-bottom: 150px;
+}
+
+#about{
+    font-size: 50px;
+}
+
+#project{
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 5px;
+}
+
+
+.third-part{
+    clear: both;
+    background-color: gainsboro;
+    margin-left: 180px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding-bottom: 30px;
+    height: 600px;
+    
+
+}
+
+
+.single-projet{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 70%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.chat{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 350px;
+    clear: both;
+    width: 60%;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.chat.h2{
+    text-align: left;
+}
+
+.link-button3{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, lightsalmon, orange);
+    padding: 15px 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+
+
+
